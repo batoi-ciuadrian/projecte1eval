@@ -1,0 +1,10 @@
+{
+  "require" : {
+    "monolog/monolog": "^1.23",
+    "swiftmailer/swiftmailer": "^6.0",
+    "dompdf/dompdf": "^0.8.2"
+  },
+  "autoload" : {
+        "psr-4": { "cursophp7\\" : "" }
+  }
+}
